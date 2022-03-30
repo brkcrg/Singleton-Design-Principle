@@ -1,0 +1,16 @@
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.exe
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.deps.json
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.dll
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+C:\Users\90505\Desktop\C#\Singleton\bin\Debug\net5.0\Singleton.pdb
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.dll
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.pdb
+C:\Users\90505\Desktop\C#\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
